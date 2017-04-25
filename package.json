@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [grunt-contrib-sass (v1.0.0)](https://github.com/gruntjs/grunt-contrib-sass#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-contrib-sass.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-contrib-sass) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-contrib-sass.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-contrib-sass)",
+    "description": "#### basic test coverage for  [grunt-contrib-sass (v1.0.0)](https://github.com/gruntjs/grunt-contrib-sass#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-contrib-sass.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-contrib-sass) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-contrib-sass.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-contrib-sass)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "grunt-contrib-sass": "*",

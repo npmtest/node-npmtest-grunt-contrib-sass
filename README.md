@@ -1,6 +1,6 @@
 # npmtest-grunt-contrib-sass
 
-#### test coverage for  [grunt-contrib-sass (v1.0.0)](https://github.com/gruntjs/grunt-contrib-sass#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-contrib-sass.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-contrib-sass) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-contrib-sass.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-contrib-sass)
+#### basic test coverage for  [grunt-contrib-sass (v1.0.0)](https://github.com/gruntjs/grunt-contrib-sass#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-contrib-sass.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-contrib-sass) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-contrib-sass.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-contrib-sass)
 
 #### Compile Sass to CSS
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-grunt-contrib-sass/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-contrib-sass/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-grunt-contrib-sass/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-contrib-sass/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-contrib-sass/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-contrib-sass/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-grunt-contrib-sass/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-grunt-contrib-sass/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-contrib-sass/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-contrib-sass/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-grunt-contrib-sass/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-grunt-contrib-sass/build/coverage.html/index.html)
 
@@ -123,7 +123,8 @@
     "scripts": {
         "test": "grunt test"
     },
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "bin": {}
 }
 ```
 
